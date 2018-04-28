@@ -3,4 +3,13 @@
     <color name="colorPrimary">#3F51B5</color>
     <color name="colorPrimaryDark">#303F9F</color>
     <color name="colorAccent">#FF4081</color>
+    <color name="white">#FFFFFF</color>
+
+    <color name="butonArkaPlan">#30ECDB</color>
+    <color name="arkaPlan">#30ECDB</color>
+    <color name="black">#000</color>
+    <color name="siyah">#000</color>
+    <color name="loginEdittextArkaPlan">#d6f9f5</color>
+    <color name="layout_background">#e288e1</color>
+
 </resources>

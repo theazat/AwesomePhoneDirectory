@@ -1,3 +1,20 @@
 <resources>
     <string name="app_name">AwesomePhoneDirectory</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+
+    <string name="hint_kullaniciAdi">Kullanıcı Adı</string>
+    <string name="hint_sifre">Şifre</string>
+
+    <string name="hint_Ad">Ad</string>
+    <string name="hint_Soyad">Soyad</string>
+    <string name="hint_Telefon">Telefon</string>
+    <string name="hint_Mail">Mail</string>
+    <string name="hint_Adres">Adres</string>
+    <string name="hint_Cinsiyet">Cinsiyet</string>
+
+    <string name="toolbar_Baslik">Yenile</string>
+
 </resources>
